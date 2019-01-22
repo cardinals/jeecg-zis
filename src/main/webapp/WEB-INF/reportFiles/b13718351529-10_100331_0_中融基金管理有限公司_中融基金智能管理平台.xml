@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><Config>
+<License>
+<product>3</product>
+<productName>"润乾报表v5.0"</productName>
+<serialNo>100331000</serialNo>
+<type>3</type>
+<expiration>-1</expiration>
+<expirationDate>"unlimit"</expirationDate>
+<serviceExpiration>1561430086588</serviceExpiration>
+<serviceExpirationDate>"2019-06-25"</serviceExpirationDate>
+<stamp>""</stamp>
+<fps>3</fps>
+<functions>"oooo-oooo-oooo-ooxx"</functions>
+<cpu>1</cpu>
+<IPRange>"10.1.42.46"</IPRange>
+<host>""</host>
+<vendor>"北京润乾信息系统技术有限公司"</vendor>
+<vendorURL>"http://www.raqsoft.com.cn"</vendorURL>
+<vendorTel>"010-51292230"</vendorTel>
+<vendorLogo/>
+<copyright>"2018-2019"</copyright>
+<ISV>"中融基金管理有限公司"</ISV>
+<user>"中融基金管理有限公司"</user>
+<projectName>"中融基金智能管理平台"</projectName>
+<signature>"E8wY/FQb+bgAqaLMhWn5L3UpDYSFeAE7g6bXmVcCv9LqO+yTzN5CE5ekLb530SsqjAqvH3eLOjVrqZxztU13rpSsU75D8YJqoKuLXDuwYpzGNhscdcS1aT0AzvcqER81Sccfp81gcuzB9WdW2PxLdLpKIhCu7D+z9DGgBgOAEoM="</signature>
+</License>
+</Config>
